@@ -14,6 +14,8 @@ I'm always up for a good chat, so feel free to message me on teams - like most m
 I always try to ensure that I <span style="color: #00693c; background-color:#bbb">&nbsp;care&nbsp;</span> for those I engage with, <span style="color: #00693c; background-color:#bbb">&nbsp;do the right thing&nbsp;</span> and always <span style="color: #00693c; background-color:#bbb">&nbsp;deliver on my promises.&nbsp;</span> I also try to keep things as <span style="color: #00693c; background-color:#bbb">&nbsp;collaborative&nbsp;</span> as possible, whilst keeping a <span style="color: #00693c; background-color:#bbb">&nbsp;curious&nbsp;</span> mind, be <span style="color: #00693c; background-color:#bbb">&nbsp;couragous&nbsp;</span> in my decisions and convictions but always <span style="color: #00693c;background-color:#bbb">&nbsp;compassionate.&nbsp;</span>
 
 ## ☕ I am always open for a virtual coffee chat to catch up, knowledge share or discussion 🍵
+{: .centered }
+``
 
 ## 📡 Communication Style
 - 🕰️ Working hours: I’m usually online 07:45–16:15, Monday to Friday.
