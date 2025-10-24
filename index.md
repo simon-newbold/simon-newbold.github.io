@@ -11,7 +11,7 @@ My work history includes many years spent wrangling data, infrastructure & platf
 
 I'm always up for a good chat, so feel free to message me on teams - like most millenials I grew up with MSN and another text based chats so I am at home instant messaging.
 
-I always try to ensure that I<span style="color: #00693c; background-color:#bbb"> care </span>for those I engage with,<span style="color: #00693c; background-color:#bbb"> do the right thing </span>and always<span style="color: #00693c; background-color:#bbb"> deliver on my promises. </span>I also try to keep things as<span style="color: #00693c; background-color:#bbb"> collaborative </span>as possible, whilst keeping a<span style="color: #00693c; background-color:#bbb"> curious </span>mind, be<span style="color: #00693c; background-color:#bbb"> couragous </span> in my decisions and convictions but always<span style="color: #00693c;"> compassionate. </span>
+I always try to ensure that I <span style="color: #00693c; background-color:#bbb"> care </span> for those I engage with, <span style="color: #00693c; background-color:#bbb"> do the right thing </span> and always <span style="color: #00693c; background-color:#bbb"> deliver on my promises. </span> I also try to keep things as <span style="color: #00693c; background-color:#bbb"> collaborative </span> as possible, whilst keeping a <span style="color: #00693c; background-color:#bbb"> curious </span>mind, be <span style="color: #00693c; background-color:#bbb"> couragous </span> in my decisions and convictions but always <span style="color: #00693c;background-color:#bbb"> compassionate. </span>
 
 ## 📡 Communication Style
 - 🕰️ Working hours: I’m usually online 07:45–16:15, Monday to Friday.
