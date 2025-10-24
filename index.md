@@ -80,6 +80,7 @@ Professionally:
 - Building high-trust, high-impact teams
 
 Personally:
-- Ice Hockey
-- Animals - I have a fondness for them all! 
-- Gadgets, Tech & EDC
+- Ice Hockey 🏒
+- Animals - I have a fondness for them all! 🫎
+- Gadgets, Tech & EDC ⚙️🧑🏻‍💻
+- Retro Gaming 🕹️
