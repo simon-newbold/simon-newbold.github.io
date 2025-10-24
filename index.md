@@ -77,6 +77,7 @@ Professionally:
 - Cyber Security
 - Governance, lineage, and metadata
 - Building high-trust, high-impact teams
+
 Personally:
 - Ice Hockey
 - Animals - I have a fondness for them all! 
