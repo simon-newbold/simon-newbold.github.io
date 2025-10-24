@@ -15,7 +15,6 @@ I always try to ensure that I <span style="color: #00693c; background-color:#bbb
 
 ## ☕ I am always open for a virtual coffee chat to catch up, knowledge share or discussion 🍵
 {: .centered }
-``
 
 ## 📡 Communication Style
 - 🕰️ Working hours: I’m usually online 07:45–16:15, Monday to Friday.
