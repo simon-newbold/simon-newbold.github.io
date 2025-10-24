@@ -1,5 +1,5 @@
 ---
-title: 👋 Hi, I'm Simon Newbold – Principal Data Engineer (Migration/Archiving)
+title: 👋 Hi, I'm Simon Newbold – Principal Data Engineer
 ---
 
 This page is a bit of a guide to working with me — part intro, part cheat sheet. Whether we’re collaborating for the first time or deep in the data trenches together, I hope this helps us connect better. I believe in openness, clarity, and a good dose of humour.
