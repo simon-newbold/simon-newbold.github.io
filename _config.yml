@@ -1,7 +1,9 @@
 theme: minima
-title: Blog
+name: Simon Newbold
+title: null
 author: Simon Newbold
 description: Github.io
 minima:
   skin: dark
+
 
