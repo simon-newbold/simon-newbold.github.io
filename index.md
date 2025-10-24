@@ -8,11 +8,14 @@ I’m a Principal Data Engineer based in Nottingham, passionate about reducing c
 
 My work history includes many years spent wrangling data, infrastructure & platforms, and cyber security for mostly companies associated with healthcare in one way or another. I care deeply about data quality, automation, securtity and making life easier for analysts, engineers, and everyone in between.
 
+I'm always up for a good chat, so feel free to message me on teams - like most millenials I grew up with MSN and another text based chats so I am at home instant messaging.
+
 📡 Communication Style
 - 🕰️ Working hours: I’m usually online 07:45–16:15, Monday to Friday.
 - 💬 Best way to reach me: Teams chat or a quick call. I check email, but it’s not my go-to.
 - 📅 Meetings: I prefer short, focused sessions with a clear agenda. Bonus points for diagrams.
 - 🧘‍♂️ Boundaries: If I message outside your hours, no pressure to reply until you’re back. I respect your time and hope you’ll do the same.
+- 🕕 My Teams and Outlook Notifications automatically disable during my non-working hours. You are free to message me anytime that works for you, I commit to responding within working hours.
 
 🧠 Neurodiversity & Me
 I’ve been diagnosed with ADHD, which means my brain likes to take the scenic route sometimes — full of curiosity, energy, and occasional tangents. It’s part of what makes me a creative problem-solver and a relentless optimiser.
