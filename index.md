@@ -19,12 +19,12 @@ I'm always up for a good chat, so feel free to message me on teams - like most m
 - 🕕 My Teams and Outlook Notifications automatically disable during my non-working hours. You are free to message me anytime that works for you, I commit to responding within working hours.
 
 ## 🧠 Neurodiversity & Me
-As someone with ADHD, which means my brain likes to take the scenic route sometimes — full of curiosity, energy, and occasional tangents. It’s part of what makes me a creative problem-solver and a relentless optimiser.
+As someone with ADHD, my brain likes to take the scenic route sometimes — full of curiosity, energy, and occasional tangents. It’s part of what makes me a creative problem-solver and a relentless optimiser.
 I’ve learned how to work with it, not against it:
-• 	I thrive with structure, clear goals, and visual thinking.
-• 	I’m great at spotting patterns and connecting dots others might miss.
-• 	I sometimes need to manage distractions, so I use tools and routines that help me stay focused.
-• 	If I seem to be fidgeting or doing something else in meetings I am either taking notes 📝 or keeping myself focused.
+- I thrive with structure, clear goals, and visual thinking.
+- I’m great at spotting patterns and connecting dots others might miss.
+- I sometimes need to manage distractions, so I use tools and routines that help me stay focused.
+- If I seem to be fidgeting or doing something else in meetings I am either taking notes 📝 or keeping myself focused.
 If you notice me hyper-fixating on a problem or bouncing between ideas — that’s just my brain doing its thing. I welcome open conversations about how we can collaborate best.
 
 ## 🧩 What I Do
