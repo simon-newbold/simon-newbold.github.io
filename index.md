@@ -25,6 +25,7 @@ I’ve learned how to work with it, not against it:
 - I’m great at spotting patterns and connecting dots others might miss.
 - I sometimes need to manage distractions, so I use tools and routines that help me stay focused.
 - If I seem to be fidgeting or doing something else in meetings I am either taking notes 📝 or keeping myself focused.   
+
 If you notice me hyper-fixating on a problem or bouncing between ideas — that’s just my brain doing its thing. I welcome open conversations about how we can collaborate best.
 
 ## 🧩 What I Do
