@@ -11,6 +11,8 @@ My work history includes many years spent wrangling data, infrastructure & platf
 
 I'm always up for a good chat, so feel free to message me on teams - like most millenials I grew up with MSN and another text based chats so I am at home instant messaging.
 
+I always try to ensure that I <span style="color: #00693c;">care</span> for those I engage with, <span style="color: #00693c;">do the right thing</span> and always <span style="color: #00693c;">deliver on my promises</span>. I also try to keep things as <span style="color: #00693c;">collaborative</span> as possible, whilst keeping a <span style="color: #00693c;">curious</span> mind, be <span style="color: #00693c;">couragous</span> in my decisions and convictions but always <span style="color: #00693c;">compassionate</span>.
+
 ## 📡 Communication Style
 - 🕰️ Working hours: I’m usually online 07:45–16:15, Monday to Friday.
 - 💬 Best way to reach me: Teams chat or a quick call. I check email, but it’s not my go-to.
