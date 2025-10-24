@@ -1,7 +1,7 @@
 ---
 title: 👋 Hi, I'm Simon Newbold – Principal Data Engineer (Migration/Archiving)
 ---
-# This page is a bit of a guide to working with me — part intro, part cheat sheet. Whether we’re collaborating for the first time or deep in the data trenches together, I hope this helps us connect better. I believe in openness, clarity, and a good dose of humour.
+This page is a bit of a guide to working with me — part intro, part cheat sheet. Whether we’re collaborating for the first time or deep in the data trenches together, I hope this helps us connect better. I believe in openness, clarity, and a good dose of humour.
 
 ## 🧭 About Me
 I’m a Principal Data Engineer based in Nottingham, passionate about reducing complexity, increasing productivity and automation of repetitive and boring tasks. I live with my wife Claire, twin girls and our two slightly chaotic Golden Retrievers; Link & Mac. Outside of work, I’m a big Ice Hockey fan supporting the Nottingham Panthers ⚫🟡 and in the NHL World Minnesota Wild, Boston Bruins & Seattle Kraken. I also enjoy taking part in CTF and other hacky games and activities - though I have less time now i'm a father then I used to! I am a Linux 🐧 User always happy to chat distros and pretty much Apple 🍎 user for everything else 
